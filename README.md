@@ -12,10 +12,10 @@ For this project the following steps are being done:
 
  -Download data and transform it - done<br>
  -Analyze the data (Exporatory Data Analysis - EDA) - done<br>
- -First predictions using train and test - in progress<br>
+ -First predictions using train and test - done<br>
  -Predictions of 7 days into the future - in progress<br>
- -Implement update routine - in progress<br>
- -Push output to a Github.io page - in progress<br>
+ -Implement update routine - donebr>
+ -Push output to a Tableau public dashboard - in progress<br>
 
 ## Please open "Covid19_pred.ipynb"
 
