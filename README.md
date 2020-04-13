@@ -4,7 +4,7 @@ An end-to-end project which tries to predict the curve of the COVID-19 infection
 
 ## Still under construction
 
-The data is coming from: https://raw.githubusercontent.com/datasets/covid-19/master/data/time-series-19-covid-combined.csv
+The data is coming from: https://github.com/datasets/covid-19/blob/master/data/time-series-19-covid-combined.csv
 
 This repo tries to predict the amount of infected people by country and state (if possible). 
 
