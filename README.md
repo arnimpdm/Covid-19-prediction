@@ -13,9 +13,12 @@ For this project the following steps are being done:
  -Download data and transform it - done<br>
  -Analyze the data (Exporatory Data Analysis - EDA) - done<br>
  -First predictions using train and test - done<br>
- -Predictions of 7 days into the future - in progress<br>
- -Implement update routine - donebr>
- -Push output to a Tableau public dashboard - in progress<br>
+ -Implement update routine - done<br>
+ -Push output to a Tableau public dashboard - done<br>
+ 
+## You can find the Dashboard here: https://public.tableau.com/views/COVID19MachineLearningmethodsprediction/Dashboard?:display_count=y&publish=yes&:origin=viz_share_link
+
+## The blog article will be published soon :D.
 
 ## Please open "Covid19_pred.ipynb"
 
