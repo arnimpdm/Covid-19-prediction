@@ -19,7 +19,3 @@ For this project the following steps are being done:
 ## Blog article: https://blog.tdwi.eu/can-data-science-help-to-forecast-new-covid-19-infections/
 
 ## Please open "Covid19_pred.ipynb"
-
-## Update: There seems to be (sometimes) a problem with the rendering of the ipynb file, please open the notebook here:
-
-https://nbviewer.jupyter.org/github/arnimpdm/Covid-19-prediction/blob/master/Covid19_pred.ipynb
