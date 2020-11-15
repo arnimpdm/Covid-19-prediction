@@ -13,12 +13,14 @@ For this project the following steps are being done:
  -First predictions using train and test - done<br>
  -Implement update routine - done<br>
  -Push output to a Tableau public dashboard - done<br>
+ -Work on enhancements - ongoing<br>
+ -Publish blog articles - ongoing
  
 ## You can find the Dashboard here: https://public.tableau.com/views/COVID19MachineLearningmethodsprediction/Dashboard?:display_count=y&publish=yes&:origin=viz_share_link
 
 ## Blog article: https://blog.tdwi.eu/can-data-science-help-to-forecast-new-covid-19-infections/
 
-## Please open "Covid19_pred.ipynb"
+## Please open "Covid19_pred-publish.ipynb"
 
 ## Update: There seems to be (sometimes) a problem with the rendering of the ipynb file, please open the notebook here:
 
