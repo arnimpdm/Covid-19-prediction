@@ -22,4 +22,4 @@ For this project the following steps are being done:
 
 ## Update: There seems to be (sometimes) a problem with the rendering of the ipynb file, please open the notebook here:
 
-https://nbviewer.jupyter.org/github/arnimpdm/Covid-19-prediction/blob/fc9697f4fdd34a79a4af62f0c8418bd17bc5e3f1/Covid19_pred-publish.ipynb
+https://nbviewer.jupyter.org/github/arnimpdm/Covid-19-prediction/blob/master/Covid19_pred-publish.ipynb
