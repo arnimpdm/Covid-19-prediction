@@ -23,5 +23,5 @@ https://public.tableau.com/views/COVID19MachineLearningmethodsprediction/Dashboa
  1. https://blog.tdwi.eu/can-data-science-help-to-forecast-new-covid-19-infections/ - Covid19_pred-publish.ipynb
 
 ## Update: There seems to be (sometimes) a problem with the rendering of the ipynb file, please open the notebook here:
-https://nbviewer.jupyter.org/github/arnimpdm/Covid-19-prediction/blob/master/Covid19_pred-publish.ipynb
+https://nbviewer.jupyter.org/github/arnimpdm/Covid-19-prediction/blob/master/Covid19_pred-publish.ipynb<br>
 https://nbviewer.jupyter.org/github/arnimpdm/Covid-19-prediction/blob/master/Covid19_pred_colab_only_linear.ipynb
