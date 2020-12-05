@@ -16,7 +16,8 @@ For this project the following steps are being done:
  -Work on enhancements - ongoing<br>
  -Publish blog articles - ongoing
  
-## You can find the Dashboard here: https://public.tableau.com/views/COVID19MachineLearningmethodsprediction/Dashboard?:display_count=y&publish=yes&:origin=viz_share_link
+## You can find the Dashboard here: 
+https://public.tableau.com/views/COVID19MachineLearningmethodsprediction/Dashboard?:display_count=y&publish=yes&:origin=viz_share_link
 
 ## Blog article and Notebooks: 
  1. https://blog.tdwi.eu/can-data-science-help-to-forecast-new-covid-19-infections/ - Covid19_pred-publish.ipynb
