@@ -18,10 +18,9 @@ For this project the following steps are being done:
  
 ## You can find the Dashboard here: https://public.tableau.com/views/COVID19MachineLearningmethodsprediction/Dashboard?:display_count=y&publish=yes&:origin=viz_share_link
 
-## Blog article: https://blog.tdwi.eu/can-data-science-help-to-forecast-new-covid-19-infections/
-
-## Please open "Covid19_pred-publish.ipynb"
+## Blog article and Notebooks: 
+ 1. https://blog.tdwi.eu/can-data-science-help-to-forecast-new-covid-19-infections/ - Covid19_pred-publish.ipynb
 
 ## Update: There seems to be (sometimes) a problem with the rendering of the ipynb file, please open the notebook here:
-
 https://nbviewer.jupyter.org/github/arnimpdm/Covid-19-prediction/blob/master/Covid19_pred-publish.ipynb
+https://nbviewer.jupyter.org/github/arnimpdm/Covid-19-prediction/blob/master/Covid19_pred_colab_only_linear.ipynb
